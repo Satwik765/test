@@ -1,0 +1,5 @@
+"{{#user}}" 
+"Name: Satwik Reddy Mokila" 
+"Skills: HTML, CSS, JS, React.js, Python, C/C++, Django" 
+"Email: satwikreddymokila@gmail.com" 
+"{{/user}}" 
